@@ -1,0 +1,46 @@
+ #contacts_form
+ {
+	width: 770px;
+	text-align: center;
+	color: white;
+	font-weight: 700;
+ }
+  #contacts_form input
+  {
+	padding: 5px;
+	border-radius: 5px;
+	width: 145px;
+	background-color: #BE4B64;
+	border:0;
+ }
+ #contacts_form label
+ {
+	display: inline-block;
+	float: left;
+	margin-left: 2px;
+ }
+ /*div.labelAndInput
+ {
+	display: block;
+ }*/
+ #contacts_form>form
+ {
+	text-align: left;
+	width: 750px;
+ }
+
+#text {
+	width: 92%;
+	margin-left: -41px;
+	height: 100px;
+	background-color: #BE4B64;
+}
+ .contacts_inputs{
+ 	display: inline-block;
+	width: 375px;
+	margin-top: 10px;
+ }
+ .input_styles{
+ 	display: inline-block;
+    margin-left: -135px;
+ }

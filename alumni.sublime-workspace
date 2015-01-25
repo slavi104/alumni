@@ -1,0 +1,942 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"fibonacci"
+			],
+			[
+				"if",
+				"if	if … end"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"pass",
+				"pass2"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"t",
+				"tbody	Tag"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"re",
+				"registerButton"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"ar",
+				"array	$… = array (…)"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"Loading",
+				"LOADING"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"timest",
+				"timestamp1"
+			],
+			[
+				"gues",
+				"guessedLetter"
+			],
+			[
+				"gue",
+				"guessedLetter"
+			],
+			[
+				"guess",
+				"guessedLetters"
+			],
+			[
+				"ran",
+				"randNum"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"mis",
+				"mistake"
+			],
+			[
+				"mul",
+				"multiplayer2"
+			],
+			[
+				"g",
+				"gameplay"
+			],
+			[
+				"game",
+				"gameplay"
+			],
+			[
+				"ga",
+				"gameplays"
+			],
+			[
+				"pla",
+				"player2"
+			],
+			[
+				"ch",
+				"checkInvitation"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"player",
+				"player1"
+			],
+			[
+				"inser",
+				"insertedLetter"
+			],
+			[
+				"sele",
+				"select_multiplayer"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"wo",
+				"wordsCountries"
+			],
+			[
+				"wor",
+				"wordsCities"
+			],
+			[
+				"help",
+				"help_button"
+			],
+			[
+				"use",
+				"username"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "BankAccount.php",
+			"settings":
+			{
+				"buffer_size": 134,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Slavi/Desktop/UtilTest.php",
+			"settings":
+			{
+				"buffer_size": 1720,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Slavi/Desktop/PHPUNIT",
+			"settings":
+			{
+				"buffer_size": 1005,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "BankAccountTest.php",
+			"settings":
+			{
+				"buffer_size": 1304,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"c++",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/cmd/series.rb",
+		"/C/Users/Slavi/Desktop/PHPUNIT",
+		"/D/cmd/test.rb",
+		"/C/Users/Slavi/Desktop/old first task/series.rb",
+		"/C/bin/phpunit.cmd",
+		"/C/Users/Slavi/Desktop/series.rb",
+		"/C/Users/Slavi/Desktop/format_string.rb",
+		"/C/xampp/htdocs/function.php",
+		"/C/Users/Slavi/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Slavi/Desktop/test.rb",
+		"/C/Users/Slavi/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Slavi/Desktop/function.php",
+		"/C/xampp/htdocs/rusibusev/helpers/config.php",
+		"/C/xampp/htdocs/alumni/config.php",
+		"/C/xampp/htdocs/alumni/changeProfile.php",
+		"/C/xampp/htdocs/alumni/registration.php",
+		"/C/xampp/htdocs/alumni/style/style.css",
+		"/C/xampp/htdocs/alumni/getIndexEvents.php",
+		"/C/xampp/htdocs/alumni/events.php",
+		"/C/xampp/htdocs/alumni/index.php",
+		"/C/xampp/htdocs/alumni/users.php",
+		"/C/xampp/htdocs/alumni/teachers.php",
+		"/C/xampp/htdocs/alumni/controller.php",
+		"/C/xampp/htdocs/alumni/header.php",
+		"/C/xampp/htdocs/alumni/addEvent.php",
+		"/C/xampp/htdocs/alumni/upload_file.php",
+		"/C/xampp/htdocs/alumni/profile.php",
+		"/C/xampp/htdocs/alumni/getTeachers.php",
+		"/C/xampp/htdocs/alumni/getUsers.php",
+		"/C/xampp/htdocs/alumni/article.php",
+		"/C/xampp/htdocs/alumni/getArticles.php",
+		"/C/xampp/htdocs/alumni/search.php",
+		"/C/xampp/htdocs/alumni/alumni.sublime-workspace",
+		"/C/xampp/htdocs/alumni/includes/admin.php",
+		"/C/xampp/htdocs/alumni/includes/display_event.php",
+		"/C/xampp/htdocs/alumni/includes/cadmin.php",
+		"/C/xampp/htdocs/alumni/js/GlobalFunctions.js",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/includes/admin.php",
+		"/C/xampp/htdocs/alumni/news.php",
+		"/C/xampp/htdocs/alumni/addArticle.php",
+		"/C/xampp/htdocs/alumni/install.php",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/install.php",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/includes/display_event.php",
+		"/C/xampp/htdocs/alumni/locale/da/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/de/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/el/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/en/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/es/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/fa/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/fi/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/fr/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/gl/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/he/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/hu/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/it/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/ja/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/ko_KR/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/lt/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/nl/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/pl_PL/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/pt_BR/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/ru/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/sv/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/th/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/vi/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/zh/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/zh_CN/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/zh_TW/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/bg/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/ca/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/cs_CZ/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/da/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/de/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/el/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/en/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/es/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/fa/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/fi/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/fr/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/gl/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/he/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/hu/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/it/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/ja/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/ko_KR/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/lt/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/nl/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/pl_PL/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/pt_BR/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/ru/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/sv/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/th/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/vi/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/zh/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/zh_CN/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/zh_TW/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/ar/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/static/phpc.css",
+		"/C/xampp/htdocs/alumni/static/phpc.js",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/index.php",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/includes/calendar.php",
+		"/C/xampp/htdocs/alumni/calendar.php",
+		"/C/xampp/htdocs/alumni/locale/cs_CZ/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/ca/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/locale/bg/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/locale/ar/LC_MESSAGES/messages.po",
+		"/C/xampp/htdocs/alumni/includes/calendar.php",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/includes/display_month.php",
+		"/C/xampp/htdocs/alumni/includes/globals.php",
+		"/C/xampp/htdocs/alumni/includes/settings.php",
+		"/C/xampp/htdocs/alumni/includes/phpcdatabase.class.php",
+		"/C/xampp/htdocs/alumni/includes/display_day.php",
+		"/C/xampp/htdocs/alumni/includes/embed.php",
+		"/C/xampp/htdocs/alumni/js/jquery-ui.js",
+		"/C/xampp/htdocs/alumni/libs/php-calendar-2.0.8/static/phpc.css",
+		"/C/xampp/htdocs/alumni/includes/translate.php",
+		"/C/xampp/htdocs/alumni/footer.php",
+		"/C/xampp/htdocs/alumni/style/contacts-style.css",
+		"/C/xampp/htdocs/alumni/contacts.php",
+		"/C/xampp/htdocs/alumni/css/bootstrap.css",
+		"/C/xampp/htdocs/alumni/css/bootstrap-responsive.css",
+		"/C/xampp/htdocs/alumni/css/bootstrap-editable.css",
+		"/C/xampp/htdocs/alumni/style/articles-style.css",
+		"/C/xampp/htdocs/alumni/SendEmail.php",
+		"/C/xampp/htdocs/alumni/events",
+		"/C/xampp/htdocs/moderna/admin/assets/css/iwebstyle.css",
+		"/C/xampp/htdocs/moderna/admin/assets/css/admin-style.css",
+		"/C/xampp/htdocs/GitHub/GamesWebSite/search.php"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ary",
+			"n",
+			"width",
+			"() ",
+			"getUsers",
+			"#users",
+			"#pages",
+			"'Edit'",
+			"\"Edit\"",
+			"Edit",
+			"edi",
+			"edit",
+			"'Edit'",
+			".articles",
+			"'",
+			"login-aside",
+			"Created at",
+			".phpc-main h2",
+			"white_label",
+			"display_event",
+			"phpc-dropdown-list-button",
+			"ui-icon-circle-triangle-s",
+			"ui-icon-circle-triangle-s\nui-icon-circle-triangle-s",
+			"$day_names",
+			"day_name",
+			"heading_html",
+			"thead",
+			"Tuesday",
+			"PHPC_DROPDOWN",
+			"default language",
+			"$vars['language']",
+			"set_lang",
+			"lang",
+			"No events on this day",
+			"phpc-main",
+			".ui-corner-all,",
+			".ui-corner-all, .ui-corner-bottom,",
+			".ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br",
+			"Search",
+			"n display_phpc",
+			"phpc-dropdown-list",
+			"ui-widget-header",
+			"ui-widget-header ui-widget",
+			"ui-widget-header ui-widget ui-corner-all",
+			"ui-widget-header",
+			"ui-widget-header ui-widget ui-corner-all",
+			"phpc-logged ui-widget-content",
+			"text",
+			"#contacts_form input",
+			"h2-contact",
+			"fSession::set",
+			"nav#menu",
+			"#login input[type=\"text\"], #login input[type=\"password\"]",
+			"registerButton",
+			"#registrationForm input[type=\"text\"], #registrationForm input[type=\"password\"]",
+			"color: #fff",
+			"#fff",
+			"@media",
+			"#regis",
+			"#content",
+			"row",
+			"nav#menu, nav#menu>ul",
+			"row",
+			"'background-color'",
+			"label",
+			"searc",
+			"#login input[type=\"submit\"]",
+			"a:focus",
+			"a:hover,a:focus",
+			".nav > li > a:hover",
+			".nav > li > a:hover, .nav > li > a:focus",
+			"$.ajax(",
+			"search-button",
+			"ul>li>a",
+			"#contacts_form",
+			"nav#menu>ul>li>a",
+			"#006385",
+			": red;",
+			"red",
+			":red;",
+			":red",
+			"red",
+			"get_search_form",
+			"#00afab",
+			"search",
+			"div#search_container",
+			"article",
+			"n add_filter",
+			"add_filter",
+			"Walker_Nav_Menu",
+			"get_header()",
+			"n get_header()",
+			"#regist",
+			"#registerButton",
+			"<h1>Опознай България!</h1>",
+			"25px",
+			"/newhungry",
+			"/newhungry/Games/",
+			"GitHub/GamesWebSite",
+			"contacts",
+			"testName",
+			"name",
+			"login",
+			"contact",
+			"8",
+			"name-h3-index",
+			".name-h3",
+			"h3",
+			"squ",
+			"getIsActive",
+			"article-title",
+			"article_title",
+			"ice-age-iceworld-wallpaper-original.jpg",
+			"847px",
+			"847",
+			"ice-age-iceworld-wallpaper-original.jpg",
+			"ice_age/ice-age-iceworld-wallpaper-original.jpg",
+			"url('ice_age/ice-age-iceworld-wallpaper-original.jpg');",
+			"width:847",
+			"margin: auto;\nposition: relative;\nwidth: 847px;\nheight: 448px;\nbackground-image:",
+			"#loser{\n    border:5px solid red;\n    border-radius: 2%;\n    margin:auto;\n    position:relative;\n    width:847px;\n    height:448px;\n    background-image:url('https://imagizer.imageshack.us/v2/827x464q90/199/876c.jpg');\n}",
+			"background",
+			".start_window",
+			"$player2Name",
+			".buttons",
+			"buttons",
+			"search",
+			"<<<<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Създадено на",
+			"fadeOut()",
+			"\"",
+			".fadeOut();",
+			";",
+			"fadeOut();"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "BankAccount.php",
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Slavi/Desktop/UtilTest.php",
+					"settings":
+					{
+						"buffer_size": 1720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								699,
+								699
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 29.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Slavi/Desktop/PHPUNIT",
+					"settings":
+					{
+						"buffer_size": 1005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "BankAccountTest.php",
+					"settings":
+					{
+						"buffer_size": 1304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 165.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"con",
+				"rusibusev/helpers/config.php"
+			],
+			[
+				"config",
+				"alumni/config.php"
+			],
+			[
+				"regi",
+				"registration.php"
+			],
+			[
+				"style",
+				"style/style.css"
+			],
+			[
+				"events",
+				"events.php"
+			],
+			[
+				"pr",
+				"profile.php"
+			],
+			[
+				"regist",
+				"registration.php"
+			],
+			[
+				"users",
+				"users.php"
+			],
+			[
+				"search",
+				"search.php"
+			],
+			[
+				"upload_file.php",
+				"upload_file.php"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"addevent",
+				"addEvent.php"
+			],
+			[
+				"contr",
+				"controller.php"
+			],
+			[
+				"regis",
+				"registration.php"
+			],
+			[
+				"profi",
+				"profile.php"
+			],
+			[
+				"usr",
+				"users.php"
+			],
+			[
+				"arti",
+				"article.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"heade",
+				"GitHub/GamesWebSite/header.php"
+			],
+			[
+				"squirrel.php",
+				"GitHub/GamesWebSite/squirrel.php"
+			],
+			[
+				"squ",
+				"GitHub/GamesWebSite/squirrel.php"
+			],
+			[
+				"addar",
+				"GitHub/GamesWebSite/addArticle.php"
+			],
+			[
+				"hea",
+				"GitHub/GamesWebSite/header.php"
+			],
+			[
+				"index",
+				"GitHub/GamesWebSite/index.php"
+			],
+			[
+				"games",
+				"GitHub/GamesWebSite/games.php"
+			],
+			[
+				"inter",
+				"GitHub/GamesWebSite/intervalCheck.php"
+			],
+			[
+				"mult",
+				"GitHub/GamesWebSite/multiplayerList.php"
+			],
+			[
+				"test",
+				"GitHub/GamesWebSite/testCategories.php"
+			],
+			[
+				"tests.php",
+				"GitHub/GamesWebSite/tests.php"
+			],
+			[
+				"mu",
+				"GitHub/GamesWebSite/multiplayerList.php"
+			],
+			[
+				"multi",
+				"GitHub/GamesWebSite/multiplayerList2.php"
+			],
+			[
+				"index.php",
+				"GitHub/GamesWebSite/index.php"
+			],
+			[
+				"cont",
+				"GitHub/GamesWebSite/controller.php"
+			],
+			[
+				"upload",
+				"GitHub/GamesWebSite/upload_file.php"
+			],
+			[
+				"cona",
+				"GitHub/GamesWebSite/contacts.php"
+			],
+			[
+				"artic",
+				"GitHub/GamesWebSite/article.php"
+			],
+			[
+				"pro",
+				"GitHub/GamesWebSite/profile.php"
+			],
+			[
+				"contac",
+				"GitHub/GamesWebSite/contacts.php"
+			],
+			[
+				"article",
+				"GitHub/GamesWebSite/article.php"
+			],
+			[
+				"articles",
+				"GitHub/GamesWebSite/articles.php"
+			],
+			[
+				"inv",
+				"GitHub/GamesWebSite/checkInvitation.php"
+			],
+			[
+				"interva",
+				"GitHub/GamesWebSite/intervalCheck.php"
+			],
+			[
+				"main",
+				"GitHub/GamesWebSite/Games/Hungry-Scuirrel/main.js"
+			],
+			[
+				"glo",
+				"GitHub/GamesWebSite/js/GlobalFunctions.js"
+			],
+			[
+				"check",
+				"GitHub/GamesWebSite/checkInvitation.php"
+			],
+			[
+				"header.php",
+				"GitHub/GamesWebSite/header.php"
+			],
+			[
+				"set",
+				"GitHub/GamesWebSite/set_gameplay.php"
+			],
+			[
+				"multipl",
+				"GitHub/GamesWebSite/multiplayerList.php"
+			],
+			[
+				"multipla",
+				"GitHub/GamesWebSite/multiplayerList2.php"
+			],
+			[
+				"squirr",
+				"GitHub/GamesWebSite/squirrel.php"
+			],
+			[
+				"squirrel-gameplay.php",
+				"Games/squirrel/squirrel-gameplay.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 131.0,
+	"status_bar_visible": true
+}
