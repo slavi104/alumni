@@ -1,6 +1,6 @@
 <?php
 	require_once 'header.php';
-	fORMDatabase::attach(new fDatabase('mysql', 'calendar', 'slavi', 'qwerty'));
+	fORMDatabase::attach(new fDatabase('mysql', 'calendar', 'root', ''));
 
 	class PhpcEvent extends fActiveRecord{
 
